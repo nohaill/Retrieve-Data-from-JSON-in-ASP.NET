@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Retrieving Data from JSON file in Asp.Net/1.0.0": {
+        "runtime": {
+          "Retrieving Data from JSON file in Asp.Net.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Retrieving Data from JSON file in Asp.Net/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

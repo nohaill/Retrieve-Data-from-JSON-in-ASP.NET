@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Retrieving Data from JSON file in Asp.Net.props" />
+</Project>

@@ -1,0 +1,30 @@
+C:\Users\Nohail\Desktop\Retrieving Data from JSON file in Asp.Net\Retrieving Data from JSON file in Asp.Net\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Nohail\Desktop\Retrieving Data from JSON file in Asp.Net\Retrieving Data from JSON file in Asp.Net\bin\Debug\net8.0\appsettings.json
+C:\Users\Nohail\Desktop\Retrieving Data from JSON file in Asp.Net\Retrieving Data from JSON file in Asp.Net\bin\Debug\net8.0\Retrieving Data from JSON file in Asp.Net.staticwebassets.runtime.json
+C:\Users\Nohail\Desktop\Retrieving Data from JSON file in Asp.Net\Retrieving Data from JSON file in Asp.Net\bin\Debug\net8.0\Retrieving Data from JSON file in Asp.Net.exe
+C:\Users\Nohail\Desktop\Retrieving Data from JSON file in Asp.Net\Retrieving Data from JSON file in Asp.Net\bin\Debug\net8.0\Retrieving Data from JSON file in Asp.Net.deps.json
+C:\Users\Nohail\Desktop\Retrieving Data from JSON file in Asp.Net\Retrieving Data from JSON file in Asp.Net\bin\Debug\net8.0\Retrieving Data from JSON file in Asp.Net.runtimeconfig.json
+C:\Users\Nohail\Desktop\Retrieving Data from JSON file in Asp.Net\Retrieving Data from JSON file in Asp.Net\bin\Debug\net8.0\Retrieving Data from JSON file in Asp.Net.dll
+C:\Users\Nohail\Desktop\Retrieving Data from JSON file in Asp.Net\Retrieving Data from JSON file in Asp.Net\bin\Debug\net8.0\Retrieving Data from JSON file in Asp.Net.pdb
+C:\Users\Nohail\Desktop\Retrieving Data from JSON file in Asp.Net\Retrieving Data from JSON file in Asp.Net\obj\Debug\net8.0\Retrieving Data from JSON file in Asp.Net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nohail\Desktop\Retrieving Data from JSON file in Asp.Net\Retrieving Data from JSON file in Asp.Net\obj\Debug\net8.0\Retrieving Data from JSON file in Asp.Net.AssemblyInfoInputs.cache
+C:\Users\Nohail\Desktop\Retrieving Data from JSON file in Asp.Net\Retrieving Data from JSON file in Asp.Net\obj\Debug\net8.0\Retrieving Data from JSON file in Asp.Net.AssemblyInfo.cs
+C:\Users\Nohail\Desktop\Retrieving Data from JSON file in Asp.Net\Retrieving Data from JSON file in Asp.Net\obj\Debug\net8.0\Retrieving Data from JSON file in Asp.Net.csproj.CoreCompileInputs.cache
+C:\Users\Nohail\Desktop\Retrieving Data from JSON file in Asp.Net\Retrieving Data from JSON file in Asp.Net\obj\Debug\net8.0\Retrieving Data from JSON file in Asp.Net.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nohail\Desktop\Retrieving Data from JSON file in Asp.Net\Retrieving Data from JSON file in Asp.Net\obj\Debug\net8.0\Retrieving Data from JSON file in Asp.Net.RazorAssemblyInfo.cache
+C:\Users\Nohail\Desktop\Retrieving Data from JSON file in Asp.Net\Retrieving Data from JSON file in Asp.Net\obj\Debug\net8.0\Retrieving Data from JSON file in Asp.Net.RazorAssemblyInfo.cs
+C:\Users\Nohail\Desktop\Retrieving Data from JSON file in Asp.Net\Retrieving Data from JSON file in Asp.Net\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Nohail\Desktop\Retrieving Data from JSON file in Asp.Net\Retrieving Data from JSON file in Asp.Net\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Nohail\Desktop\Retrieving Data from JSON file in Asp.Net\Retrieving Data from JSON file in Asp.Net\obj\Debug\net8.0\staticwebassets\msbuild.Retrieving Data from JSON file in Asp.Net.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Nohail\Desktop\Retrieving Data from JSON file in Asp.Net\Retrieving Data from JSON file in Asp.Net\obj\Debug\net8.0\staticwebassets\msbuild.build.Retrieving Data from JSON file in Asp.Net.props
+C:\Users\Nohail\Desktop\Retrieving Data from JSON file in Asp.Net\Retrieving Data from JSON file in Asp.Net\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Retrieving Data from JSON file in Asp.Net.props
+C:\Users\Nohail\Desktop\Retrieving Data from JSON file in Asp.Net\Retrieving Data from JSON file in Asp.Net\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Retrieving Data from JSON file in Asp.Net.props
+C:\Users\Nohail\Desktop\Retrieving Data from JSON file in Asp.Net\Retrieving Data from JSON file in Asp.Net\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Nohail\Desktop\Retrieving Data from JSON file in Asp.Net\Retrieving Data from JSON file in Asp.Net\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Nohail\Desktop\Retrieving Data from JSON file in Asp.Net\Retrieving Data from JSON file in Asp.Net\obj\Debug\net8.0\scopedcss\bundle\Retrieving Data from JSON file in Asp.Net.styles.css
+C:\Users\Nohail\Desktop\Retrieving Data from JSON file in Asp.Net\Retrieving Data from JSON file in Asp.Net\obj\Debug\net8.0\scopedcss\projectbundle\Retrieving Data from JSON file in Asp.Net.bundle.scp.css
+C:\Users\Nohail\Desktop\Retrieving Data from JSON file in Asp.Net\Retrieving Data from JSON file in Asp.Net\obj\Debug\net8.0\Retrieving Data from JSON file in Asp.Net.dll
+C:\Users\Nohail\Desktop\Retrieving Data from JSON file in Asp.Net\Retrieving Data from JSON file in Asp.Net\obj\Debug\net8.0\refint\Retrieving Data from JSON file in Asp.Net.dll
+C:\Users\Nohail\Desktop\Retrieving Data from JSON file in Asp.Net\Retrieving Data from JSON file in Asp.Net\obj\Debug\net8.0\Retrieving Data from JSON file in Asp.Net.pdb
+C:\Users\Nohail\Desktop\Retrieving Data from JSON file in Asp.Net\Retrieving Data from JSON file in Asp.Net\obj\Debug\net8.0\Retrieving Data from JSON file in Asp.Net.genruntimeconfig.cache
+C:\Users\Nohail\Desktop\Retrieving Data from JSON file in Asp.Net\Retrieving Data from JSON file in Asp.Net\obj\Debug\net8.0\ref\Retrieving Data from JSON file in Asp.Net.dll

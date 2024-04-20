@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Ali Khan",
+    "department": "Engineering"
+  },
+  {
+    "id": 2,
+    "name": "Sana Ahmed",
+    "department": "Marketing"
+  },
+  {
+    "id": 3,
+    "name": "Ahmed Khan",
+    "department": "Finance"
+  },
+  {
+    "id": 4,
+    "name": "Fatima Malik",
+    "department": "Human Resources"
+  },
+  {
+    "id": 5,
+    "name": "Zubair Qureshi",
+    "department": "IT"
+  },
+  {
+    "id": 6,
+    "name": "Saima Khan",
+    "department": "Operations"
+  },
+  {
+    "id": 7,
+    "name": "Bilal Akhtar",
+    "department": "Sales"
+  },
+  {
+    "id": 8,
+    "name": "Ayesha Anwar",
+    "department": "Customer Service"
+  },
+  {
+    "id": 9,
+    "name": "Imran Ali",
+    "department": "Research and Development"
+  },
+  {
+    "id": 10,
+    "name": "Hina Bashir",
+    "department": "Public Relations"
+  }
+]

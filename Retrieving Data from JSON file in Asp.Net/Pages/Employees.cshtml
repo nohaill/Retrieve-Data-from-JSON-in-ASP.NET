@@ -1,0 +1,27 @@
+﻿@page
+@model EmployeesModel
+@{
+    ViewData["Title"] = "Employees Data";
+}
+
+<table class="table table-bordered table-striped text-center">
+    <thead>
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Department</th>
+    </tr>
+    </thead>
+    <tbody>
+ @foreach (var emp in Model.Employee)
+{
+    <tr>
+    <td>@emp.Id</td>
+    <td>@emp.Name</td>
+    <td>@emp.Department</td>
+        </tr>
+    }
+    </tbody>
+</table>
+
+ 
